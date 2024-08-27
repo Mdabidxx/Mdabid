@@ -1,5 +1,5 @@
 {
-  "author": "Nayan",
+  "author": "mdabid",
   "autoRestart": true,
   "accpetPending": false,
   "developermode": false,
@@ -7,14 +7,14 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "md-bot",
   "PREFIX": "/",
   "OPERATOR": [
     "100014896964436",
     "100000959749712"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "61555336716765",
     ""
   ],
   "OWNER": ["100000959749712"], 
